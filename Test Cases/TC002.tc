@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>LoginAgain</description>
+   <name>TC002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f28d5dd3-583c-4244-a215-cf5254f4e4c6</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>76c7c9f1-3bb0-46f7-a662-00cb4f15b6cf</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>60e3c92c-a3d0-4950-907e-e1d4c3c907fe</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
